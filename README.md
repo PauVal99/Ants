@@ -5,7 +5,7 @@ This is a simple game with educational purposes. The objective is to learn data 
 
 ## How to Use
 
-+ Install build-essentials, if needed: `sudo apt install build-essentials -y`
++ If needed, install build-essentials, : `sudo apt install build-essentials -y`
 + Compile game: `make all`
 + Run game: `./Game Demo Demo Demo Demo -s 30 -i default.cnf -o default.out`
 
