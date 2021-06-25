@@ -20,3 +20,7 @@ Gameplay and further documentation in `Doc` folder. Be aware it's in Catalan.
 ## Contact
 
 Any doubt email me at pau.val.tubau99@gmail.com
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
