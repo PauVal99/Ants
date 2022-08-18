@@ -7,10 +7,10 @@ The game rules and code was given to us as students, our goal was to develop a A
 ## How to Use
 
 + If needed, install build-essentials, : `sudo apt install build-essentials -y`
-+ Rename the AIDummy.o.\<OS\> file to AIDummy.o of your OS.
++ Rename the `AIDummy.o.\<OS\>` file to `AIDummy.o` of your OS.
 + Compile game: `make all`
 + Run game: `./Game Dummy Dummy Dummy ImBack15 -s 30 -i default.cnf -o default.out`
-+ Open Viewer/viewer.html with a browser and select default.out file.
++ Open `Viewer/viewer.html` with a browser and select default.out file.
 
 Use `./Game --help` for more usage.
 
