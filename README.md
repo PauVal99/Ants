@@ -4,6 +4,8 @@ Ants
 This is a simple game with educational purposes. The objective is to learn data structures and search algorithms. It's entirely written in C++.
 The game rules and code was given to us as students, our goal was to develop a AI capable to beat the teachers one.
 
+I developed ImBack and beeing the best iteration [AIImBack15](AIImBack15.cc). Dummy was the AI to beat.
+
 ## How to Use
 
 + If needed, install build-essentials, : `sudo apt install build-essentials -y`
